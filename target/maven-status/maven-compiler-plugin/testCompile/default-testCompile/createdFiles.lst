@@ -1,0 +1,5 @@
+com/example/$DemoClientGrpcTest$Definition$Exec.class
+META-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/com.example.$DemoClientGrpcTest$Definition$Reference
+com/example/$DemoClientGrpcTest$Definition.class
+com/example/$DemoClientGrpcTest$Definition$Reference.class
+com/example/DemoClientGrpcTest.class
